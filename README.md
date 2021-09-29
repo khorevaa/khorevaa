@@ -4,18 +4,29 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khorevaa&hide=TeX&layout=compact)
 
 
+Общие знания и опыт работы 
+- 1C (разработка/администрирование/консультации)
+- Git, Git Flow;
+- NoSQL/ SQL/ ClickHouse
+- Rest API;
+- Docke/Rancher;
+- Clean Architecture
+- Protobuf/gRPC;
+- RabbitMQ
+- WebSockets
+- Отличные знания Linux
+- Свободная работа c Jira/Bamboo/Wiki
+- CI/CD стек (почти любой)
+- Опыт написания unit и интеграционных тестов (TDD/BDD)
+- ELK/Prometheus 
+- Bash/Oscript и другие скриптовые языки 
 
-<!--
-**khorevaa/khorevaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Golang:
+1. Создание микросервисов (REST/gRPC) и консольных приложений
+2. Умение использовать Context/goroutine (решение задач многопоточности)
+3. Различные web фреймворки (gin, fiber и т.д) 
+4. Опыт работы с шифрованием/криптовалютами
+5. Написание телеграм ботов.
+6. Опять работы с JSON/XML (Marshal/unmarshal)
+7. Опять работы с сторонним бинарным протоколом  (интеграция с 1С)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
